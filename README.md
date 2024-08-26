@@ -1,17 +1,17 @@
 
-#Job Portal Application using MERN Stack
+# Job Portal Application using MERN Stack
 
 The Job Portal Application is a full-featured web platform designed to connect job seekers with employers. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), this application provides a seamless and efficient experience for users looking to post or find jobs.
 
-#Key Features:
+# Key Features:
 
-User Authentication: Secure registration and login system with role-based access for job seekers and employers.
-Job Listings: Employers can create, update, and manage job postings, specifying requirements and qualifications.
-Job Search: Job seekers can browse available jobs, filter by location, category, and other criteria, and apply directly through the platform.
-Application Management: Employers can view and manage applications received for their job postings, while job seekers can track their application status.
-Profile Management: Both job seekers and employers can create and update their profiles, showcasing skills, experience, and other relevant information.
-Responsive Design: The application is fully responsive, ensuring a smooth user experience across devices, from desktops to mobile phones.
-Notifications: Users receive email notifications for important actions, such as job application submissions or updates on their job postings.
+User Authentication: Secure registration and login system with role-based access for job seekers and employers.<br>
+Job Listings: Employers can create, update, and manage job postings, specifying requirements and qualifications.<br>
+Job Search: Job seekers can browse available jobs, filter by location, category, and other criteria, and apply directly through the platform.<br>
+Application Management: Employers can view and manage applications received for their job postings, while job seekers can track their application status.<br>
+Profile Management: Both job seekers and employers can create and update their profiles, showcasing skills, experience, and other relevant information.<br>
+Responsive Design: The application is fully responsive, ensuring a smooth user experience across devices, from desktops to mobile phones.<br>
+Notifications: Users receive email notifications for important actions, such as job application submissions or updates on their job postings.<br>
 # Technology Used
 HTML,CSS,TAILWIND,REACT,EXPRESS,VITE,MONGO DB
 
