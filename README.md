@@ -11,7 +11,6 @@ Job Search: Job seekers can browse available jobs, filter by location, category,
 Application Management: Employers can view and manage applications received for their job postings, while job seekers can track their application status.<br>
 Profile Management: Both job seekers and employers can create and update their profiles, showcasing skills, experience, and other relevant information.<br>
 Responsive Design: The application is fully responsive, ensuring a smooth user experience across devices, from desktops to mobile phones.<br>
-Notifications: Users receive email notifications for important actions, such as job application submissions or updates on their job postings.<br>
 # Technology Used
 HTML,CSS,TAILWIND,REACT,EXPRESS,VITE,MONGO DB
 
